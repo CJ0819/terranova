@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environment variables
+.env
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+
+# Media files
+media/
+
+# Mac
+.DS_Store
