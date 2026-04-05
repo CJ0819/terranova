@@ -1,4 +1,6 @@
 asgiref==3.11.1
+certifi==2026.2.25
+cloudinary==1.44.1
 Django==6.0.3
 django-cors-headers==4.9.0
 djangorestframework==3.17.1
@@ -9,5 +11,7 @@ pillow==12.1.1
 psycopg2-binary==2.9.11
 PyJWT==2.12.1
 python-dotenv==1.2.2
+six==1.17.0
 sqlparse==0.5.5
+urllib3==2.6.3
 whitenoise==6.12.0
