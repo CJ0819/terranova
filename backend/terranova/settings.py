@@ -81,7 +81,7 @@ SIMPLE_JWT = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://your-frontend.vercel.app",
+    "https://terranova-six.vercel.app",
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
